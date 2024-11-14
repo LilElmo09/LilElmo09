@@ -5,10 +5,9 @@
 
 <h2>Intereses</h2>
 <ul>
-  <li>Estudiar</li>
-  <li>Escuchar música</li>
-  <li>Jugar videojuegos</li>
-  <li>Desarrollar juegos</li>
+  <li>📓Estudiar📓</li>
+  <li>🎶Escuchar música🎶</li>
+  <li>👾Jugar videojuegos👾</li>
 </ul>
 
 <h2>Conocimientos</h2>
@@ -60,9 +59,14 @@
     </ul>
   </li>
 </ul>
-<h2>Escuchando Ahora</h2>
+<h2>Escuchando Ahora  <img src="https://media.giphy.com/media/3ohhwuiYAq2pNT4e5y/giphy.gif?cid=ecf05e478gu6ixy357jdzipofxs51173evnbaluv66a2hpao&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="45"></h2> 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&redirect=true)
+<div style="display: flex; align-items: center;">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile">
+  </a>
+    <img src="https://i.giphy.com/OP4C9oeeSVIrwgFNAk.webp" >
+</div>
 
 
 
