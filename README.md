@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi, I'm Jim Santander </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center" ><img src="https://media.giphy.com/media/DqxSAbjbS5DOP3umEs/giphy.gif?cid=790b7611sthqeto8dtytp5sbkrnikgxdlhwwmjf32zzoegck&ep=v1_gifs_search&rid=giphy.gif&ct=g"> </p>
+
 <h1><b>About me</b></h1>
 <p>I am a student of Computer Engineering with a specialization in Systems Development. I am passionate about the field of QA/Automation and enjoy working with Cypress.</p>
 
