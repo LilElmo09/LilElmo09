@@ -3,14 +3,14 @@
 <h1><b>Sobre mi </b></h1>
 <p>I am a student of Computer Engineering with a specialization in Systems Development. I am passionate about the field of QA/Automation and enjoy working with Cypress.</p>
 
-<h2>Intereses</h2>
+<h2>Interests</h2>
 <ul>
   <li>📓Study📓</li>
   <li>🎶Listen to music🎶</li>
   <li>👾Play video games👾</li>
 </ul>
 
-<h2>Conocimientos</h2>
+<h2>Stack</h2>
 <ul>
   <li>QA/Automation
     <ul>
