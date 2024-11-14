@@ -65,9 +65,9 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile" >
   </a>
-    <img src="https://i.giphy.com/OP4C9oeeSVIrwgFNAk.webp" >
+    <img src="https://i.giphy.com/OP4C9oeeSVIrwgFNAk.webp" width="420">
 </div>
 
 
