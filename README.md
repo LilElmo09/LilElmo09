@@ -15,48 +15,48 @@
 <ul>
   <li>QA/Automation
     <ul>
-      <li>Cypress</li>
+        <img src="https://img.shields.io/badge/Cypress-004080?style=for-the-badge&logo=cypress&logoColor=ffdd54">
     </ul>
   </li>
   <li>Lenguajes de Programación
     <ul>
-      <li>JavaScript</li>
-      <li>C#</li>
-      <li>Python</li>
-      <li>GDScript</li>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
     </ul>
   </li>
   <li>Frontend
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>React</li>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     </ul>
   </li>
-  <li>Backend
+  <li>Backend			
     <ul>
-      <li>Node.js</li>
-      <li>Express</li>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
     </ul>
   </li>
   <li>Bases de Datos
     <ul>
-      <li>SQLServer</li>
-      <li>PostgreSQL</li>
+        <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     </ul>
   </li>
   <li>Herramientas y Entornos
     <ul>
-      <li>Linux</li>
-      <li>Windows</li>
-      <li>Notion</li>
-      <li>Obsidian</li>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white">
     </ul>
   </li>
   <li>Desarrollo de Juegos
     <ul>
-      <li>Unity</li>
-      <li>Godot</li>
+        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
     </ul>
   </li>
 </ul>
