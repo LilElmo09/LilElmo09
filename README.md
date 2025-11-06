@@ -16,7 +16,8 @@
 <ul>
   <li>QA/Automation
     <ul>
-        <img src="https://img.shields.io/badge/Cypress-004080?style=for-the-badge&logo=cypress&logoColor=ffdd54">
+        <img src="https://img.shields.io/badge/Cypress-004080?style=for-the-badge&logo=cypress&logoColor=ffdd54" alt="Cypress badge">
+        <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright badge">
     </ul>
   </li>
   <li>Programming Languages
@@ -65,12 +66,10 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile" >
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jim.wolft&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile[...]  
   </a>
     <img src="https://i.giphy.com/OP4C9oeeSVIrwgFNAk.webp" width="420">
 </div>
 
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpvNHNob3IxaWJwdXVvNzQwYWZwaG5kbmlvenljcjIzYmVzMGxoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jC1zKGLmfVYXDEgUii/giphy.gif -->
-
-
